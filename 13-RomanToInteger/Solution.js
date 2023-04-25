@@ -29,4 +29,5 @@ const romanToInteger = (romanNumeral) => {
     
     return sum; 
 }
-console.log(romanToInteger('LVIII'));
+
+
